@@ -24,11 +24,11 @@ expectancy, freedom to make life choices, generosity and perceptions of corrupti
 
 
 Problem Description:
-Q What is the Healthy life expectancy?
-Q What Country had the highest life expectancy?
-Q Which countries has the most freedom to make life choices?
-Q Which are the Most generous countries?
-Q Which country has highest rate of corruption?
+Q What is the Healthy life expectancy?<br>
+Q What Country had the highest life expectancy?<br>
+Q Which countries has the most freedom to make life choices?<br>
+Q Which are the Most generous countries?<br>
+Q Which country has highest rate of corruption?<br>
 
 
 About Dataset:
@@ -38,13 +38,13 @@ healthy life expectancy, freedom to make life choices
 
 
 Data Fields:
-• Country name
-• Life ladder
-• GDP
-• Year
-• Social support
-• Healthy life expectancy
-• Freedom to make life choices
-• Generosity
-• Perceptions of corruption
-• Positive affect• Negative affect
+• Country name<br>
+• Life ladder<br>
+• GDP<br>
+• Year<br>
+• Social support<br>
+• Healthy life expectancy<br>
+• Freedom to make life choices<br>
+• Generosity<br>
+• Perceptions of corruption<br>
+• Positive affect• Negative affect<br>
